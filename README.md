@@ -1,4 +1,4 @@
-🚀Hey  I am Excited to share my latest project on: LinkedIn Job Data Analysis!
+🚀Hey  I am Excited to share my latest project on: #LinkedIn Job Data Analysis!
 
 As part of my journey to becoming a skilled data analyst, I worked on a project that goes beyond generic data sets to analyze real-time LinkedIn job data. This project provided me with valuable insights into the job market and helped sharpen my technical skills. Here's what I accomplished:
 
